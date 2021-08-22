@@ -6,7 +6,6 @@ const Tests = () => {
   return (
     <SafeAreaView>
       <View>
-        <Text>Testing practice is on</Text>
         <Button />
       </View>
     </SafeAreaView>
